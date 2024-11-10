@@ -7,9 +7,6 @@
 
 <p><strong><p style= font-size:36px><p style=color:#4B6043>
 Ingredients:
-
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7kO7IP9nMqB8X3e5hNcMpM5
-jFYPg08GZ3WAKaXohWYvA8UeT9QDq9I&s=10>
 <br>
 <br>2 cups DeLallo Whole-Milk Ricotta
 <br>2 cups fresh spinach, finely chopped
