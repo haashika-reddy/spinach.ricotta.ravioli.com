@@ -5,7 +5,7 @@
 <h1>Spinach Ricotta Ravioli  </h1>
 
 
-<p><strong><p style= font-size:36px><p style=color:#4B6043>
+<p><strong><p style= font-size:36><p style=color:#4B6043>
 Ingredients:
 <br>
 <br>2 cups DeLallo Whole-Milk Ricotta
